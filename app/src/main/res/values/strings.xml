@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GyMobile</string>
+    <string name="numText">numText</string>
+    <string name="rollButton">rollButton</string>
+</resources>
